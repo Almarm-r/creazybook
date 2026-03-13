@@ -79,6 +79,10 @@ source venv/bin/activate
 ## 3. Instalar dependencias
 
 ```bash
+pip install -r requirements.txt
+```
+O una por una utilizando
+```bash
 pip install discord.py requests python-dotenv
 ```
 
